@@ -1,0 +1,13 @@
+body {
+    background-color: var(--body-bg-color);
+    color: var(--body-color);
+}
+
+hr {
+    background-color: var(--color-blue);
+    height:5px;
+    border: 0px;
+    margin-inline-end:0px;
+    margin-inline-start:0px;
+    width:96px;
+}

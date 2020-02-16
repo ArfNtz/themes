@@ -7,13 +7,13 @@ document.getElementsByTagName('head')[0].appendChild(link);
 var display_mode = calm
 
 function light() {
-    link.setAttribute('href', 'light.css');
+    link.setAttribute('href', './css/mode_light.css');
 }
 function dark() {
-    link.setAttribute('href', 'dark.css');
+    link.setAttribute('href', './css/mode_dark.css');
 }
 function calm() {
-    link.setAttribute('href', 'calm.css');
+    link.setAttribute('href', './css/mode_calm.css');
 }
 
 function display_mode_switch() {
@@ -30,3 +30,5 @@ function display_mode_switch() {
     }
     display_mode()
 }
+
+calm()
