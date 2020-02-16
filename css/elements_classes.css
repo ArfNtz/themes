@@ -1,3 +1,4 @@
+
 .tint1 {
     color: var(--color-orange);
 }
@@ -6,6 +7,9 @@
 }
 .tint3 {
     color: var(--color-blue);
+}
+.tint4 {
+    color: var(--color-pink);
 }
 
 .bg-tint1 {
@@ -17,18 +21,14 @@
 .bg-tint3 {
     background-color: var(--color-blue);
 }
-
-.over {
-    cursor: pointer;
-}
-.icon-medium {
-    font-size: 30px;
+.bg-tint4 {
+    background-color: var(--color-pink);
 }
 
 .t1 {
 color:var(--t1-color);
 display:block;
-font-family:Comfortaa,Nunito,Quicksand;
+font-family:var(--t1-font);
 font-size:50px;
 font-weight:700;
 text-rendering:optimizelegibility;
@@ -40,7 +40,7 @@ word-break:break-word;
     .t2 {
 display:block;
 color:var(--t2-color);
-font-family:Comfortaa,Nunito,Quicksand;
+font-family:var(--t2-font);
 font-size:42px;
 font-weight:300;
 text-rendering:optimizelegibility;
@@ -52,7 +52,7 @@ word-break:break-word;
     .t3 {
 color:var(--t3-color);
 display:block;
-font-family:Comfortaa,Nunito,Quicksand;
+font-family:var(--t3-font);
 font-size:30px;
 font-weight:700;
 text-rendering:optimizelegibility;
@@ -64,7 +64,7 @@ word-break:break-word;
 .t4 {
     color:var(--t4-color);
     display:block;
-    font-family:Comfortaa,Nunito,Quicksand;
+    font-family:var(--t4-font);
     font-size:24px;
     font-weight:400;
     text-rendering:optimizelegibility;
@@ -75,10 +75,19 @@ word-break:break-word;
 .t5 {
     color:var(--t5-color);
     display:block;
-    font-family:Comfortaa,Nunito,Quicksand;
+    font-family:var(--t5-font);
     font-size:18px;
     font-weight:600;
     text-rendering:optimizelegibility;
     text-size-adjust:100%;
     -webkit-font-smoothing:antialiased;        
+}
+
+.icon {
+    color: var(--fa-color);
+    font-family: var(--fa-font);
+    text-decoration: none;
+    font-style: normal;
+    cursor: pointer;
+    font-size: 30px;
 }

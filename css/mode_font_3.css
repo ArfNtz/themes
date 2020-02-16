@@ -1,0 +1,10 @@
+:root {
+    /* light mode */
+    --fa-font: var(--font-fa);
+    --body-font: var(--font-3);
+    --t1-font: var(--font-3);
+    --t2-font: var(--font-3);
+    --t3-font: var(--font-3);
+    --t4-font: var(--font-3);
+    --t5-font: var(--font-3);
+}

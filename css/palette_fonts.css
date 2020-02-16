@@ -1,0 +1,17 @@
+@import url(font_comfortaa.css);
+@import url(font_nunito.css);
+@import url(font_quicksand.css);
+@import url(font_proxima-nova.css);
+@import url(font_fa-solid.css);
+@import url(font_fa-regular.css);
+@import url(font_fa-brands.css);
+
+
+:root {
+    /* palette */
+    --font-fa: "Font Awesome 5 Free";
+    --font-1: "Comfortaa";
+    --font-2: "Nunito";
+    --font-3: "Quicksand";
+    --font-4: "fa5-proxima-nova";
+}

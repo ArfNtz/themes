@@ -2,31 +2,32 @@
 <html>
 <head>
     <!-- fonts -->
-    <link rel="stylesheet" type="text/css" href="./css/font_comfortaa.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font_nunito.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font_quicksand.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font_proxima-nova.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font_fa-regular.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font_fa-solid.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font_fa-brands.css" />
+    <link rel="stylesheet" type="text/css" href="./css/palette_fonts.css" />
     <!-- colors -->
-    <link rel="stylesheet" type="text/css" href="./css/colors_palette.css" />
+    <link rel="stylesheet" type="text/css" href="./css/palette_colors.css" />
+    <!-- layout -->
+    <link rel="stylesheet" type="text/css" href="./css/palette_layout.css" />
     <!-- elements -->
-    <link rel="stylesheet" type="text/css" href="./css/html_elements.css" />
-    <link rel="stylesheet" type="text/css" href="./css/classes.css" />
-
-    <script src="./js/display_mode.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="./css/elements_html.css" />
+    <link rel="stylesheet" type="text/css" href="./css/elements_classes.css" />
     <title></title>
 </head>
+</style>
 <body>
-    <span class="fa over icon-medium" onclick="display_mode_switch()">&#xf042;</span>
-	<span class="t1">The Update Framework</span>
+    <span id='mode_color_icon' class='icon' onclick="mode_color_switch()"></span>
+    <span id='mode_font_icon' class='icon' onclick="mode_font_switch()"></span>
+    <span id='mode_layout_icon' class='icon' onclick="mode_layout_switch()"></span>
+    <hr class="bg-tint4">
+	<span class="t1">Grand titre</span>
     <hr class="bg-tint1">
-    <span class="t2">A framework for securing software update systems</span>
+    <span class="t2">Sous titre</span>
     <hr class="bg-tint2">
-    <span class="t3">Purpose, or Why Get TUF?</span>
-	<span class="t4">TUF is hosted by the Linux Foundation as part of the Cloud Native Computing Foundation (CNCF) and is used in production by companies such </span>
+    <span class="t3">Titre de paragraphe</span>
+	<span class="t4">Texte du paragraphe</span>
     <hr class="bg-tint3">
-	<span class="t5">Requests Leaderboard</span>
+	<span class="t5">notes compl&eacute;mentaires</span>
 </body>
 </html>
+<script src="./js/mode_color.js" type="text/javascript" charset="utf-8"></script>
+<script src="./js/mode_font.js" type="text/javascript" charset="utf-8"></script>
+<script src="./js/mode_layout.js" type="text/javascript" charset="utf-8"></script>
