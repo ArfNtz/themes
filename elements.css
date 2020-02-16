@@ -1,0 +1,91 @@
+.tint1 {
+    color: var(--color-orange);
+}
+.tint2 {
+    color: var(--color-green);
+}
+.tint3 {
+    color: var(--color-blue);
+}
+
+.bg-tint1 {
+    background-color: var(--color-orange);
+}
+.bg-tint2 {
+    background-color: var(--color-green);
+}
+.bg-tint3 {
+    background-color: var(--color-blue);
+}
+
+body {
+    background-color: var(--body-bg-color);
+    color: var(--body-color);
+}
+
+hr {
+    background-color: var(--color-blue);
+    height:5px;
+    border: 0px;
+    margin-inline-end:0px;
+    margin-inline-start:0px;
+    width:96px;
+}
+
+.t1 {
+color:var(--t1-color);
+display:block;
+font-family:Comfortaa,Nunito,Quicksand;
+font-size:50px;
+font-weight:700;
+text-rendering:optimizelegibility;
+text-size-adjust:100%;
+word-break:break-word;
+-webkit-font-smoothing:antialiased;
+    }
+
+    .t2 {
+display:block;
+color:var(--t2-color);
+font-family:Comfortaa,Nunito,Quicksand;
+font-size:42px;
+font-weight:300;
+text-rendering:optimizelegibility;
+text-size-adjust:100%;
+word-break:break-word;
+-webkit-font-smoothing:antialiased;
+    }
+
+    .t3 {
+color:var(--t3-color);
+display:block;
+font-family:Comfortaa,Nunito,Quicksand;
+font-size:30px;
+font-weight:700;
+text-rendering:optimizelegibility;
+text-size-adjust:100%;
+word-break:break-word;
+-webkit-font-smoothing:antialiased;
+    }
+
+    .t4 {
+color:var(--t4-color);
+display:block;
+font-family:Comfortaa,Nunito,Quicksand;
+font-size:24px;
+font-weight:400;
+text-rendering:optimizelegibility;
+text-size-adjust:100%;
+-webkit-font-smoothing:antialiased;
+    }
+
+.t5 {
+    color:var(--t5-color);
+    display:block;
+    font-family:Comfortaa,Nunito,Quicksand;
+    font-size:18px;
+    font-weight:600;
+    text-rendering:optimizelegibility;
+    text-size-adjust:100%;
+    -webkit-font-smoothing:antialiased;        
+}

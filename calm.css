@@ -1,0 +1,10 @@
+:root {
+    /* light mode */
+    --body-bg-color: var(--color-blue-1);
+    --body-color: white;
+    --t1-color: var(--color-grey-7);
+    --t2-color: var(--color-grey-6);
+    --t3-color: var(--color-grey-7);
+    --t4-color: var(--color-grey-6);
+    --t5-color: var(--color-grey-7);
+}
