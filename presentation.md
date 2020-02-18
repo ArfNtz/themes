@@ -1,22 +1,23 @@
-# I'm a software designer & coder
-## I work on enterprise management systems
+Professional pen picture
+
+# I'm a designer & programmer
+## I work in software development and integration
 
 # I do these things ...
 ## I design
-I currently work on retirement pensions at the french Ministry of Education.
-The government defines the way pensions are managed.
-This implies undergoing changes to the information system.
-I provide software for data analysis of the individual retirement accounts.
-The database holds 1.400.000 accounts.
+I currently work on human resources management software at the french Ministry of Education.
+Undergoing changes on the information system are consequences of the government's decisions.
+In particular I provide software for data analysis of the individual pension accounts.
 ## I code
 I write code most of which is in java, angular or swift language.
+Quality and continuous delivery makes coding interesting to me, as we nail user expectations.
 ## I teach
-I teach to pensions administrators how to use new softwares.
+I teach pension administrators how to use the software.
 I write papers, organize events, and speak.
 
-# Things I love
+# Things I like
 ## Explore
-I'm curious about others. I try to imagine how we could better.
+I'm curious about others. I try to imagine how we could do things in better ways.
 My activity often goes from proofs of concepts to frameworks.
 This lead me, a few years ago, to set up a complete framwork and software environement for http://www.Xloan.fr
 On my spare time I experiment, here http://www.arfntz.fr and there https://github.com/arfntz, with mobile devices and distributed architectures.
@@ -33,9 +34,7 @@ Sometimes I publish a music here https://soundcloud.com/arfntz, learning from fe
 ## Teach
 I find teaching and training others very rewarding; an opportunity for both teacher and learner to grow their expertise.
 
-
 # Profile
-
 Photo
 Name : 
 Nationality : 
@@ -46,27 +45,32 @@ GPG key fingerprint :
 
 ## Intro
 Hi, my name is F E. I'm a software designer.
-I found a bunch of Slackware floppy disks on a birthday way back.
+I got a bunch of Slackware floppy disks for a birthday way back.
 Since then I've been writing code as a hobbyist, full-time employee in private and public organisations, or just to give something back to the open-source community.
-My particular interests lie in sofware and design, which I'm currently practicing full-time at the french Ministry of Education, as I work on pension management software.
+My particular interests are in sofware and design, which I'm currently practicing full-time at the french Ministry of Education, as I work on pension management software.
 
 ## Skills
-swift
-java
+swift (for Apple and Linux platforms)
+java (spring)
 node.js (angular)
 php (symfony)
 
-## Diploma
-Master in Computer Science and Enterprise Management, Université de Nantes (FR)
-BSc in Computer Science (Hons, first class), Univeristy of Teesside (UK)
-
 ## Timeline
-2018 
+1996 Education
+I began working toward my BSc. in Computer Science with first class honours, at Teesside University in Middlesbrough, UK.
 
-2009
+1998 Into industry
+I started working at a web development agency, where I had the opportunity to more fully develop my skills with LAMP. I also developped a search engine in perl.
 
-2001
+2000 Framework design and software delivery
+I joined a team working on a new banking system and gained experience with J2E, designing frameworks, and software integration.
 
-2000
+2001 Technical design and guidance
+A software company, MCO Finance, hired me to give technical guidance in rewriting their ERP, Xloan. The rewrite involved software design from the ground, as well as teaching new methods to co-workers.
 
-1999
+2009 Cloud design and information system management
+As CTO I managed a team of developers and leaded the cloud transformation for Xloan. This was a 9 years cross-disciplinary experience.
+
+2018 Graduation
+Going back to my interests for teching and learning methods, I decided to take my education further and started working toward a Master diploma. I graduated in november 2019, while working as a software engineer at the french Ministry of Education, my actual position.
+
