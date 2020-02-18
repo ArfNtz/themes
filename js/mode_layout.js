@@ -7,11 +7,11 @@ var mode_layout_icon = document.getElementById("mode_layout_icon");
 
 function mode_layout_1() {
     mode_layout_link.setAttribute('href', './css/mode_layout_1.css');
-    mode_layout_icon.innerHTML = "&#xf037";
+    mode_layout_icon.innerHTML = "&#xf036";
 }
 function mode_layout_2() {
     mode_layout_link.setAttribute('href', './css/mode_layout_2.css');
-    mode_layout_icon.innerHTML = "&#xf036";
+    mode_layout_icon.innerHTML = "&#xf037";
 }
 function mode_layout_3() {
     mode_layout_link.setAttribute('href', './css/mode_layout_3.css');

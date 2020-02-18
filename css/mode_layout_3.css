@@ -1,0 +1,8 @@
+:root {
+    --body-text-align: right;
+    --hr-width: 22px;
+}
+
+hr {
+    margin-inline-end: 0px;
+}
