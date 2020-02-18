@@ -86,8 +86,9 @@ word-break:break-word;
 .icon {
     color: var(--fa-color);
     font-family: var(--fa-font);
+    font-weight:900;
     text-decoration: none;
     font-style: normal;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 20px;
 }

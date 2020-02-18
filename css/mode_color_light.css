@@ -1,6 +1,6 @@
 :root {
     /* light mode */
-    --body-bg-color: white;
+    --body-bg-color: var(--color-grey-7);;
     --body-color: black;
     --t1-color: var(--color-grey-2);
     --t2-color: var(--color-grey-3);
