@@ -18,7 +18,7 @@ function mode_color_calm() {
     mode_color_icon.innerHTML = '&#xf6c4;';
 }
 
-var mode_color = mode_color_calm;
+var mode_color = mode_color_light;
 
 function mode_color_switch() {
     switch (mode_color) {

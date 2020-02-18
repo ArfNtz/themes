@@ -18,7 +18,7 @@ function mode_font_3() {
     mode_font_icon.innerHTML = "f3";
 }
 
-var mode_font = mode_font_1;
+var mode_font = mode_font_3;
 
 function mode_font_switch() {
     switch (mode_font) {

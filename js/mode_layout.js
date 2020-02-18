@@ -18,7 +18,7 @@ function mode_layout_3() {
     mode_layout_icon.innerHTML = "&#xf038";
 }
 
-var mode_layout = mode_layout_1;
+var mode_layout = mode_layout_2;
 
 function mode_layout_switch() {
     switch (mode_layout) {
