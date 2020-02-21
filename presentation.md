@@ -1,7 +1,7 @@
 Professional pen picture
 
-# I'm a designer & programmer
-## I work in software development and integration
+# I'm a developer
+## I work in software design and integration
 
 # I do these things ...
 ## I design
@@ -16,7 +16,7 @@ I write papers, organize events, and speak.
 
 # Things I like
 ## Explore
-I'm curious about people, ideas and things. I imagine how we can do better.
+I'm curious, often about people, ideas, methods, and technology. I imagine how we can do better.
 My activity often goes from proofs of concepts to frameworks.
 A few years ago I had the opportunity to setup a completely new software environment at http://www.xloan.fr.
 Currently I experiment, here http://www.arfntz.fr and there https://github.com/arfntz, with mobile devices and distributed architectures.
@@ -31,8 +31,7 @@ I find teaching and training others very rewarding; an opportunity for both teac
 Sometimes I stand at a piano or a drumset and play music in a band, for an audience, in venues.
 Personally it's a game towards expression and freedom, being given some finite conditions of a musical instrument.
 Collectively, with bandmates I learn about contribution and communication, and experience what a team can do.
-We always learn from feedback.
-Sometimes I also publish a music on https://soundcloud.com/arfntz.
+We always learn from feedback. Sometimes I also publish a music on https://soundcloud.com/arfntz.
 
 # Profile
 Photo
